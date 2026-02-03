@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi there 👋 I'm Khushi K. Sheth
 
-<!--
-**Khushiiii002/Khushiiii002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Researcher | Robotics & AI Enthusiast
 
-Here are some ideas to get you started:
+I’m a passionate and curious developer currently working on **research in Swarm Robotics** where we integrate **AI, robot design, and Python** to build intelligent systems. I love solving real-world problems using code and creativity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Current Research
+
+🚀 **Swarm Robotics Research Project**  
+I’m actively contributing to a research project focused on decentralized robotic systems and autonomous behaviors using artificial intelligence, robot design principles, and Python for simulations and prototype development.
+
+---
+
+### 🛠️ Skills & Technologies
+
+#### 🧠 Programming Languages
+- **C**
+- **C++**
+- **Python**
+- **Java**
+- **Angular**
+
+#### 🌐 Web Development
+- HTML
+- CSS
+- Basics of JavaScript & Frontend
+
+---
+
+### 💡 Tools & Technologies
+- Python libraries for AI / Robotics
+- Robot design frameworks
+- Version control with Git & GitHub
+
+---
+
+### 📂 Featured Projects
+
+Here are a couple of projects I’ve built that demonstrate my experience:
+
+- **Student Performance Prediction**  
+  📌 A machine learning model to predict student success using real-world data.
+
+- **Employee Leave Management System**  
+  📌 A system built using TypeScript covering leave workflows and processes.
+
+> More projects are being added as my research and coding journey continues!
+
+---
+
+### 📫 Connect with Me
+
+If you’d like to collaborate or chat about anything tech, research, or robotics — feel free to connect!
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
+
