@@ -55,6 +55,7 @@ Here are a couple of projects I’ve built that demonstrate my experience:
 If you’d like to collaborate or chat about anything tech, research, or robotics — feel free to connect!
 
 ---
-
+## Tools
+![](httos://skillicons.dev/icons?=java,c,cpp,python,angular,htmnl,css,js,ts,vscode)
 ⭐ Thanks for visiting my GitHub profile!
 
